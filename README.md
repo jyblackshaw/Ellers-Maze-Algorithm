@@ -7,4 +7,4 @@ The Eller's Maze Algorithm is a procedural maze generation method that operates 
 
 
 [Eller's Maze Algortihm Tutorial Series](https://youtube.com/playlist?list=PLOsqD8iK9BePx9knqt1Svmv40oawNZ1aa&si=NjGcBebdXNFb1YCv)
-[Paper](http://www.neocomputer.org/projects/eller.html#:~:text=Eller's%20algorithm%20creates%20'perfect'%20mazes,to%20only%20a%20single%20row.)http://www.neocomputer.org/projects/eller.html#:~:text=Eller's%20algorithm%20creates%20'perfect'%20mazes,to%20only%20a%20single%20row.
+[Paper](http://www.neocomputer.org/projects/eller.html#:~:text=Eller's%20algorithm%20creates%20'perfect'%20mazes,to%20only%20a%20single%20row.)
