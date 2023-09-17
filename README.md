@@ -6,16 +6,17 @@
 
 The Eller's Maze Algorithm is a procedural maze generation method that constructs mazes row by row. It's known for its intricate yet speedy maze generation capabilities and the ability to construct mazes of infinite size in linear time. This approach builds the maze using sets to track connected columns, ensuring perfect mazes each time. This repository contains the Unity implementation of Eller's Maze Algorithm, including a visual demonstration of maze generation.
 
-[Reference Paper](http://www.neocomputer.org/projects/eller.html#:~:text=Eller's%20algorithm%20creates%20'perfect'%20mazes,to%20only%20a%20single%20row.)
-
 ## Tutorial Series
 
 If you're new to Eller's Maze Algorithm or need assistance with its implementation within Unity, check out the comprehensive 3-part YouTube tutorial series I've created. It will comprehensively explain the algorithm, and then later walk you through the steps of implementing it within Unity.
 
 [Eller's Maze Algorithm Tutorial Series](https://youtube.com/playlist?list=PLOsqD8iK9BePx9knqt1Svmv40oawNZ1aa&si=NjGcBebdXNFb1YCv)
-• [Part 1](https://youtu.be/kD-YUSNffFY?si=NZ5BZbuPEe5FRSOb)
-• [Part 2](https://youtu.be/5nWUX2TMJrY?si=wBczLIpnxbPVksV5)
-• [Part 3](https://youtu.be/p3l9uLspmwI?si=DP1k7K7_dw1YRVvF)
+- [Part 1](https://youtu.be/kD-YUSNffFY?si=NZ5BZbuPEe5FRSOb)
+- [Part 2](https://youtu.be/5nWUX2TMJrY?si=wBczLIpnxbPVksV5)
+- [Part 3](https://youtu.be/p3l9uLspmwI?si=DP1k7K7_dw1YRVvF)
+
+[Reference Paper](http://www.neocomputer.org/projects/eller.html#:~:text=Eller's%20algorithm%20creates%20'perfect'%20mazes,to%20only%20a%20single%20row.)
+
 
 ## Usage
 
