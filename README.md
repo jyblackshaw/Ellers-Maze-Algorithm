@@ -20,8 +20,9 @@ If you're new to Eller's Maze Algorithm or need assistance with its implementati
 1. Clone or download this Unity project.
 2. Open the project in Unity.
 3. Attach the EllerMazeGenerator script to a GameObject in your scene.
-4. Configure the parameters in the inspector as desired.
-5. Run the Unity scene to visualize Eller's Maze Algorithm in action.
+4. Attach the Custom_Grid script to a GameObject in your scene.
+5. Configure the parameters in the inspector as desired.
+6. Run the Unity scene to visualize Eller's Maze Algorithm in action.
 
 ## How the Algorithm Works
 
