@@ -15,9 +15,6 @@ If you're new to Eller's Maze Algorithm or need assistance with its implementati
 - [Part 2](https://youtu.be/5nWUX2TMJrY?si=wBczLIpnxbPVksV5)
 - [Part 3](https://youtu.be/p3l9uLspmwI?si=DP1k7K7_dw1YRVvF)
 
-[Reference Paper](http://www.neocomputer.org/projects/eller.html#:~:text=Eller's%20algorithm%20creates%20'perfect'%20mazes,to%20only%20a%20single%20row.)
-
-
 ## Usage
 
 1. Clone or download this Unity project.
@@ -66,9 +63,7 @@ The `EllersMazeGenerator` class provides the maze generation functionality based
             - Union the sets to which the current cell and the cell to the right are members.
       - Output the final row.
 
-You can now copy and paste this directly into your GitHub README, and it should retain the formatting.
-
-You can now copy and paste this directly into your GitHub README, and it should retain the formatting.
+[Referenced Paper](http://www.neocomputer.org/projects/eller.html#:~:text=Eller's%20algorithm%20creates%20'perfect'%20mazes,to%20only%20a%20single%20row.)
 
 ## Project Structure
 
