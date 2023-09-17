@@ -69,6 +69,7 @@ The main code is represented by the `EllersMazeGenerator` class, responsible for
 ## Dependencies
 
 - Unity (Version 2021.3.4f1) or Later
+- Visual Studio or a compatible code editor
 
 ## License
 
